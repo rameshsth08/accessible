@@ -1,0 +1,35 @@
+//vendors
+@import 'vendors/bootstrap/bootstrap';
+
+// utilities
+@import 'utils/variables';
+@import 'utils/color';
+@import 'utils/rem-calc';
+@import 'utils/fonts';
+@import 'utils/mixing';
+@import 'utils/hover';
+@import 'utils/aspect-ratio';
+@import 'utils/custome-margin';
+@import 'utils/icon';
+@import 'utils/section';
+
+// common
+@import 'common';
+
+// Components
+@import 'components/button';
+@import 'components/header';
+@import 'components/footer';
+@import 'components/navbar';
+@import 'components/sidebar-menu';
+
+// Front page
+@import 'components/front-page/banner';
+@import 'components/front-page/about-section';
+@import 'components/front-page/counter';
+@import 'components/front-page/tagline';
+@import 'components/front-page/br-section';
+@import 'components/front-page/category-section';
+
+
+

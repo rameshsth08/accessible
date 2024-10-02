@@ -1,0 +1,50 @@
+.header{
+    padding: 1rem 0;
+    //position: relative;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 2;
+    .site-brand{
+        width: 200px;
+        margin-right: 2.5rem;
+        h1{
+           a{
+              color: #fff;
+            }
+           }
+    }
+    .navbar-nav{
+        .nav-item{
+            .nav-link{
+                color: $white;
+                text-transform: uppercase;
+                font-size: 16px;
+                transition: all 0.3s ease-in-out;
+                text-shadow: 0 1px 3px rgba(0, 0, 0, 0.14);
+                &.active{
+                    color: $white;
+                    opacity: 0.5;
+                }
+                &:hover{
+                    opacity: 0.5;
+                }
+            }
+        }
+    }
+    .header-right{
+        position: absolute;
+        right: 1.5rem;
+        top: calc(50% - 0.825rem);
+        ul{
+            display: flex;
+            gap: 1rem;
+            li{
+                a{
+                    color: $white;
+                }
+            }
+        }
+    }
+}

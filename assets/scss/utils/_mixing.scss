@@ -1,0 +1,28 @@
+// border rounded
+@mixin rounded($radius: 4px) {
+    -webkit-border-radius: $radius;
+    -moz-border-radius: $radius;
+    border-radius: $radius;
+  }
+
+ @mixin gradient-bg($color1 :rgba(0,0,0)){
+  background: $color1;
+  background: -moz-linear-gradient(180deg, rgba($color: $color1, $alpha: 0) 0%, rgba($color: $color1, $alpha: 0.72) 100%);
+  background: -webkit-linear-gradient(180deg, rgba($color: $color1, $alpha: 0) 0%, rgba($color: $color1, $alpha: 0.72) 100%);
+  background: linear-gradient(180deg, rgba($color: $color1, $alpha: 0)0%, rgba($color: $color1, $alpha: 0.72) 100%);
+ }
+
+ @mixin transition1($time: 0.5s){
+  -webkit-transition: all $time ease-out;
+  -moz-transition: all $time ease-out;
+  -o-transition: all $time ease-out;
+  transition: all $time ease-out;
+ }
+
+ @mixin scale($val: 1.05){
+  -webkit-transform: scale($val);
+  -moz-transform: scale($val);
+  -o-transform: scale($val);
+  transform: scale($val);
+ }
+

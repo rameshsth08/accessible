@@ -1,0 +1,19 @@
+.view-all{
+    border:1px solid #fff;
+    background: transparent;
+    color: #fff;
+    -webkit-transition: all .4s;
+    -o-transition: all .4s;
+    transition: all .4s;
+    padding: 14px 35px;
+    border-radius: 30px ;
+    font-size: 14px;
+    text-transform: uppercase;
+    &:hover{
+        background: #fff;
+        color: #000;
+    }
+    .i-icon{
+        margin-left: 0.5rem;
+    }
+}

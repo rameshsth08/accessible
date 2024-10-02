@@ -1,0 +1,116 @@
+.footer{
+    margin-top: auto;
+    background: #242424;
+    padding: 1.25rem 0;
+    .footer-nav{
+        display: flex;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        justify-content: center;
+        li{
+            color: $white;
+        }
+        a{
+            color: $white;
+        }
+    }
+}
+footer .subscribe-minimal .form-group {
+    position: relative;
+  }
+  
+  footer .subscribe-minimal input {
+    color: #fff;
+    background: transparent;
+    border-radius: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    width: 100%;
+    padding: 15px 30px;
+  }
+  
+  footer .subscribe-minimal input:focus {
+    border-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  footer .subscribe-minimal button {
+    color: #fff;
+    padding: 15px 0;
+    position: absolute;
+    top: 5px;
+    right: 30px;
+    background: transparent;
+    border: 0;
+  }
+  
+  footer.clean-footer.crev {
+    position: relative;
+  }
+  
+  footer.clean-footer.crev .bord-thin-top,
+  footer.clean-footer.crev .bord-thin-left,
+  footer.clean-footer.crev .bord-thin-right,
+  footer.clean-footer.crev .bord-thin-bottom {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  footer.clean-footer.crev:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 40px;
+    right: 0;
+    bottom: 40px;
+    background: #1a1a1a;
+    z-index: 2;
+  }
+  
+  footer.clean-footer.crev:before {
+    background: -webkit-gradient(linear, left top, left bottom, from(#f5f7f9), to(rgba(29, 29, 29, 0.5)));
+    background: -webkit-linear-gradient(top, #f5f7f9, rgba(29, 29, 29, 0.5));
+    background: -o-linear-gradient(top, #f5f7f9, rgba(29, 29, 29, 0.5));
+    background: linear-gradient(180deg, #f5f7f9, rgba(29, 29, 29, 0.5));
+  }
+  
+  .modern-footer {
+    background: #1a1a1a;
+    color: #fff;
+  }
+  
+  .modern-footer .sub-bg {
+    background: #1d1d1d !important;
+  }
+  
+  .modern-footer.sub-bg {
+    background: #1d1d1d !important;
+    color: #fff;
+  }
+  
+  .modern-footer.sub-bg .main-bg {
+    background: #1a1a1a !important;
+  }
+  
+  .modern-footer .bord-thin-top,
+  .modern-footer .bord-thin-left,
+  .modern-footer .bord-thin-right,
+  .modern-footer .bord-thin-bottom {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .modern-footer .butn.butn-bord-thin {
+    border-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+  }
+  
+  .modern-footer .bord-left {
+    position: relative;
+  }
+  
+  .modern-footer .bord-left:after {
+    content: '';
+    position: absolute;
+    top: -80px;
+    bottom: -80px;
+    left: -80px;
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+  }
