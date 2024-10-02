@@ -41,11 +41,14 @@
     <symbol id="i_right" viewBox="0 0 16 16">
        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
     </symbol>
+    <!-- up icon -->
+    <symbol id="i_up" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708z"/>
+    </symbol>
     <!-- example icon -->
-    <symbol id="example" viewBox="0 0 12 12">
+    <symbol id="example" viewBox="0 0 16 16">
        
     </symbol>
 
 </svg>
-
 
