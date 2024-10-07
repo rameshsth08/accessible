@@ -22,20 +22,37 @@
                             z-index: -1;
                             left: 0;
                             top: 0;
-                            transition: z-index 2s ease,transform 1.5s ease, opacity 1s ease;
+                            transition: z-index .3s ease,transform .3s ease, opacity .3s ease;
                             opacity: 0;
                         }
+                    }
+                }
+                .product-label {
+                    position: absolute;
+                    left: 0;
+                    top: 1rem;
+                    background: $primary;
+                    z-index: 44;
+                    padding: 4px 8px;
+                    border-radius: 0 5px 5px 0;
+                    color: #fff;
+                    a{
+                        color: #fff;
+                        display: inline-block;
                     }
                 }
             }
             .product-content{
                 h4{
-                    font-size: 1.5rem;
-                    margin-bottom: 0.75rem;
+                    font-size: 1rem;
+                    margin-bottom: 0.5rem;
+                    text-transform: capitalize;
+                    font-weight: 500;
+                    opacity: .9;
                 }
                 span{
-                    font-size: 1rem;
-                    opacity: 0.85;
+                    font-size: .875rem;
+                    opacity: 0.65;
                 }
             }
             &:hover{
@@ -49,6 +66,11 @@
                     }
                 }
             }
+        }
+    }
+    &.laptop{
+        img{
+            opacity: .85;
         }
     }
 }
