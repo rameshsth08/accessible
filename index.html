@@ -350,10 +350,11 @@
                 <a href="#"  >
                   <div class="project-img"  >
                     <div class="video">
-                      <video class="videoembed jarallax-img"  autoplay muted loop>
+                      <video class="video-card jarallax-img"  muted>
                         <source src="assets/video/Automotive_I'm Accessible Intro_.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                       </video>
+                      <img src="assets/images/brand-engineering/brand-1.JPG" alt="">
                     </div>
                   </div>
                   <div class="content-overlay">
@@ -1068,6 +1069,27 @@
         video.pause();
       });
     });
+  </script>
+  <script>
+   const videos = document.querySelectorAll(".video-card")
+
+    videos.forEach(video => {
+      video.addEventListener("mouseover", function () {
+        this.play()
+      })
+      
+      video.addEventListener("mouseout", function () {
+        this.pause()
+      })
+      
+      video.addEventListener("touchstart", function () {
+        this.play()
+      })
+      
+      video.addEventListener("touchend", function () {
+        this.pause()
+      })
+    })
   </script>
 </body>
 </html>
