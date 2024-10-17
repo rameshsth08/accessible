@@ -166,4 +166,23 @@
   .project-box-s2:hover .project-box-container img {
     transform: scale(1.2) rotate(0.001deg) translateZ(0);
   }
+  .project-img {
+   .video{
+    position: relative;
+    img{
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      left: 0;
+      top: 0;
+    }
+    &:hover{
+     img{
+      opacity: 0;
+      z-index: -2;
+     }
+    }
+   }
+  }
   

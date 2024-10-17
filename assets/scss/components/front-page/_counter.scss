@@ -25,6 +25,15 @@
     font-size: 60px;
     font-weight: 600;
     margin-bottom: 18px;
+    display: flex;
+    align-items: center;
+    gap:12px;
+    svg{
+      stroke-width: 1;
+      height: var(--size);
+      width: var(--size);
+      --size:3.75rem;
+    }
   }
   .counter-card_title {
     font-weight: 600;
