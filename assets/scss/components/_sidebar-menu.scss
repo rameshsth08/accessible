@@ -251,3 +251,15 @@
     
 }
 
+.sidebar-cuopyright{
+    p{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        a{
+            width: 110px;
+            display: block;
+            color: $black;
+        }
+    }
+}
