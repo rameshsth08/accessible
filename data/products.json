@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Accessible Bagpack",
+      "productType": "unisex",
+      "image": "assets/images/products/bag/Backpack_Imaccessible_Black.jpg",
+      "hoverImage": "assets/images/products/bag/Backpack_Imaccessible_white.jpg",
+      "category": "accessible_product"
+    },
+    {
+        "title": "Accessible Hat",
+        "productType": "mens",
+        "image": "assets/images/products/hat/hat_mockup_edit_Black.jpg",
+        "hoverImage": "assets/images/products/hat/hat_mockup_edit_White.jpg",
+        "category": "accessible_product"
+      },
+      {
+        "title": "Accessible Pen",
+        "productType": "Stationary",
+        "image": "assets/images/products/pen/Free_Pen_Mockup_Black_color.jpg",
+        "hoverImage": "assets/images/products/pen/Free_Pen_Mockup_White_color.jpg",
+        "category": "accessible_product"
+      },
+      {
+        "title": "Accessible T-shirt",
+        "productType": "Stationary",
+        "image": "assets/images/products/t-shirt-1/T-shirt_only_black.jpg",
+        "hoverImage": "assets/images/products/t-shirt-1/T-shirt_only_white.jpg",
+        "category": "accessible_product"
+      },
+      {
+        "title": "Asus ZenBook Pro Duo UX8402",
+        "productType": "mens",
+        "image": "assets/images/laptops/laptop-1.jpg",
+        "hoverImage": "assets/images/laptops/laptop-b-1.jpg",
+        "category": "accessible_tech"
+      },
+      {
+        "title": "RAIDER GE68 HX 14VIG-426AU",
+        "productType": "mens",
+        "image": "assets/images/laptops/laptop-2.jpg",
+        "hoverImage": "assets/images/laptops/laptop-b-2.jpg",
+        "category": "accessible_tech"
+      },
+      {
+        "title": "SPECTRE X360 14-EU0037TU I5-125H W11P",
+        "productType": "mens",
+        "image": "assets/images/laptops/laptop-3.jpg",
+        "hoverImage": "assets/images/laptops/laptop-b-3.jpg",
+        "category": "accessible_tech"
+      }
+
+  ]
+  
