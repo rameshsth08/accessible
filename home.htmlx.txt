@@ -23,10 +23,10 @@
                       <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0 justify-content-end w-100">
                           <li class="nav-item">
-                            <a class="nav-link active" href="index.html">Home</a>
+                            <a class="nav-link active" href="#">Home</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="branding.html">Brand Engineering</a>
+                            <a class="nav-link" href="#">Brand Engineering</a>
                           </li>
                           <!-- <li class="nav-item">
                             <a class="nav-link" href="#">Use Cases</a>
@@ -35,7 +35,7 @@
                             <a class="nav-link" href="#">Partners</a>
                           </li> -->
                           <li class="nav-item">
-                            <a class="nav-link" href="shop.html">Shop</a>
+                            <a class="nav-link" href="#">Shop</a>
                           </li>
                         </ul>
                       </div>
@@ -147,7 +147,110 @@
       </figure>
     </div>
     <!-- Banner End -->
-  
+    <!-- ====================================================================================== 
+    ======================================================================================  -->
+    <!-- intro section -->
+    <div class="about-section d-none">
+      <section class="intro-iner section-padding">
+        <div class="container">
+            <div class="row justify-content-around">
+                <div class="col-lg-5">
+                    <div class="img-box">
+                        <div class="img fit-img jarallax">
+                            <img class="jarallax-img" src="assets//images/intro.jpg" alt="">
+                        </div>
+                        <div class="states">
+                            <h2 class="mb-10 fw-600">7k+</h2>
+                            <span class="text-u fz-12 fw-500">Satisfaction <br> Clients</span>
+                        </div>
+                        <div class="just-shape">
+                            <div class="shap-right-top">
+                                <svg viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-11 h-11">
+                                    <path d="M11 1.54972e-06L0 0L2.38419e-07 11C1.65973e-07 4.92487 4.92487 1.62217e-06 11 1.54972e-06Z" fill="#0e0f11"></path>
+                                </svg>
+                            </div>
+                            <div class="shap-left-bottom">
+                                <svg viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-11 h-11">
+                                    <path d="M11 1.54972e-06L0 0L2.38419e-07 11C1.65973e-07 4.92487 4.92487 1.62217e-06 11 1.54972e-06Z" fill="#0e0f11"></path>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="butn-vid d-flex align-items-center">
+                            <div class="play-button">
+                                <a href="https://youtu.be/AzwC6umvd1s" class="vid">
+                                  <svg class="i-icon">
+                                    <use xlink:href="assets/icon/icon.svg#i_play"></use>
+                                  </svg>
+                                </a>
+                            </div>
+                            <div class="cont">
+                                <span>Let's see <br> how we did it.</span>
+                            </div>
+                            <div class="shaps bottom">
+                                <div class="shap-right-top">
+                                    <svg viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-11 h-11">
+                                        <path d="M11 1.54972e-06L0 0L2.38419e-07 11C1.65973e-07 4.92487 4.92487 1.62217e-06 11 1.54972e-06Z" fill="#0e0f11"></path>
+                                    </svg>
+                                </div>
+                                <div class="shap-left-bottom">
+                                    <svg viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-11 h-11">
+                                        <path d="M11 1.54972e-06L0 0L2.38419e-07 11C1.65973e-07 4.92487 4.92487 1.62217e-06 11 1.54972e-06Z" fill="#0e0f11"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="sec-head mb-60">
+                        <h6 class="sub-head mb-10">Our Story</h6>
+                        <h3>Brand Engineering for Elite Lifestyles & Luxury Experiences</h3>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item active">
+                                    <h4 class="accordion-header" id="heading2">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+                                            What’s Our mission?
+                                        </button>
+                                    </h4>
+                                    <div id="collapse2" class="accordion-collapse collapse show" aria-labelledby="heading2" data-bs-parent="#accordionExample" style="">
+                                        <div class="accordion-body">
+                                            <p>How quick is quick? For most design, we’re talking 2-3
+                                                business days.
+                                                We balance speed with quality,ensuring you get top-north
+                                                design
+                                                swiftly</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-item">
+                                    <h4 class="accordion-header" id="heading3">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                            Our Culture &amp; Our Studio
+                                        </button>
+                                    </h4>
+                                    <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordionExample" style="">
+                                        <div class="accordion-body">
+                                            <p>How quick is quick? For most design, we’re talking 2-3
+                                                business days.
+                                                We balance speed with quality,ensuring you get top-north
+                                                design
+                                                swiftly</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+      </section>
+    </div>
+     <!-- intro section end-->
         <!-- ====================================================================================== 
     ======================================================================================  -->
     <section class="br-section">
@@ -247,10 +350,16 @@
               </div>
           </div>
         </div>
+        <!-- <div class="category-heading d-flex flex-column align-items-center mb-5">
+          <h2 class="text-uppercase text-center mb-4">Shop Now</h2>
+          <div class="w-75 text-center">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit explicabo quam veniam, dolorem eligendi veritatis totam magnam unde at.</p>
+          </div>
+        </div> -->
 
         <div class="feature-product" id="accessible_product">
           <div class="row mb-5">
-            <!-- <div class="col-lg-4">
+            <div class="col-lg-4">
               <div class="product-item">
                 <div class="product-photo">
                   <a href="#">
@@ -263,12 +372,114 @@
                     <a href="#">Coming soon</a>
                   </div>
                 </div>
+                <!-- product caption -->
                 <div class="product-content text-center">
                   <h4 class="">Accessible Bagpack</h4>
                   <span>Unisex</span>
                 </div>
               </div>
-            </div> -->
+            </div>
+            <div class="col-lg-4">
+              <div class="product-item">
+                <div class="product-photo">
+                  <a href="#">
+                    <figure>
+                      <img src="assets/images/products/hat/hat_mockup_edit_Black.jpg" alt="">
+                      <img class="hover-img" src="assets/images/products/hat/hat_mockup_edit_White.jpg" alt="">
+                    </figure>
+                  </a>
+                  <div class="product-label d-none">
+                    <a href="#">Coming soon</a>
+                  </div>
+                </div>
+                <!-- product caption -->
+                <div class="product-content text-center">
+                  <h4 class="">Accessible Bagpack</h4>
+                  <span>Mens</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="product-item">
+                <div class="product-photo">
+                  <a href="#">
+                    <figure>
+                      <img src="assets/images/products/pen/Free_Pen_Mockup_Black_color.jpg" alt="">
+                      <img class="hover-img" src="assets/images/products/pen/Free_Pen_Mockup_White_color.jpg" alt="">
+                    </figure>
+                  </a>
+                  <div class="product-label d-none">
+                    <a href="#">Coming soon</a>
+                  </div>
+                </div>
+                <!-- product caption -->
+                <div class="product-content text-center">
+                  <h4 class="">Accessible Bagpack</h4>
+                  <span>Unisex</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 d-none">
+              <div class="product-item">
+                <div class="product-photo">
+                  <a href="#">
+                    <figure>
+                      <img src="assets/images/products/t-shirt-1/T-shirt_only_black.jpg" alt="">
+                      <img class="hover-img" src="assets/images/products/t-shirt-1/T-shirt_only_white.jpg" alt="">
+                    </figure>
+                  </a>
+                  <div class="product-label d-none">
+                    <a href="#">Coming soon</a>
+                  </div>
+                </div>
+                <!-- product caption -->
+                <!-- product caption -->
+                <div class="product-content text-center">
+                  <h4 class="">Accessible Bagpack</h4>
+                  <span>Mens</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 d-none">
+              <div class="product-item">
+                <div class="product-photo">
+                  <a href="#">
+                    <figure>
+                      <img src="assets/images/products/Umbrella_01.jpg" alt="">
+                      <img class="hover-img" src="assets/images/products/Umbrella_01.jpg" alt="">
+                    </figure>
+                  </a>
+                  <div class="product-label d-none">
+                    <a href="#">Coming soon</a>
+                  </div>
+                </div>
+                <!-- product caption -->
+                <div class="product-content text-center">
+                  <h4 class="">Accessible Bagpack</h4>
+                  <span>Mens</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 d-none">
+              <div class="product-item">
+                <div class="product-photo">
+                  <a href="#">
+                    <figure>
+                      <img src="assets/images/products/t-shirt-2/Sudhir_tShirt_grayscale_black.jpg" alt="">
+                      <img class="hover-img" src="assets/images/products/t-shirt-2/Sudhir_tShirt_grayscale_white.jpg" alt="">
+                    </figure>
+                  </a>
+                  <div class="product-label d-none">
+                    <a href="#">Coming soon</a>
+                  </div>
+                </div>
+                <!-- product caption -->
+                <div class="product-content text-center">
+                  <h4 class="">Accessible Bagpack</h4>
+                  <span>Mens</span>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -299,7 +510,7 @@
         </div>
         <div class="feature-product" id="accessible_tech">
           <div class="row mb-5">
-            <!-- <div class="col-lg-4">
+            <div class="col-lg-4">
               <div class="product-item">
                 <div class="product-photo">
                   <a href="#">
@@ -312,12 +523,13 @@
                     <a href="#">Coming soon</a>
                   </div>
                 </div>
+                <!-- product caption -->
                 <div class="product-content text-center mb-2">
                   <h4 class="">Accessible Bagpack</h4>
                   <span>Unisex</span>
                 </div>
               </div>
-            </div> -->
+            </div>
           </div>
         </div>
       </div>
@@ -332,39 +544,120 @@
               <div class="counter-card">
                   <h3 class="counter-card_number">
                     <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M2 16.1A5 5 0 0 1 5.9 20M2 12.05A9 9 0 0 1 9.95 20M2 8V6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6"></path><line x1="2" y1="20" x2="2" y2="20"></line></svg>
-                      <span class="counter-number">100</span>+
+                      <span class="counter-number">26</span>+
                   </h3>
-                  <h4 class="counter-card_title">Brand Engineering</h4>
-                  <p class="counter-card_text">With 25+ years of experience, we create enduring brand identities that blend strategic insight and creative innovation, positioning brands for market leadership from concept to execution for lasting success.</p>
+                  <h4 class="counter-card_title">Years of Experience</h4>
+                  <p class="counter-card_text">We are a creative agency brands building insightful strategy, creating unique designs helping</p>
               </div>
           </div>
           <div class="col-xl-auto col-lg-4 col-md-6 counter-divider">
               <div class="counter-card">
                   <h3 class="counter-card_number">
                     <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
-                      <span class="counter-number">150</span>+
+                      <span class="counter-number">347</span>+
                   </h3>
-                  <h4 class="counter-card_title">Digital Excellence</h4>
-                  <p class="counter-card_text">Our expertise in data-driven visualisation and digitalisation is unparalleled. Having successfully delivered 500+ bespoke projects, we bring complex brand narratives to life, creating immersive digital experiences that captivate and engage audiences across platforms.</p>
+                  <h4 class="counter-card_title">Successful Projects</h4>
+                  <p class="counter-card_text">We are a creative agency brands building insightful strategy, creating unique designs helping</p>
               </div>
           </div>
           <div class="col-xl-auto col-lg-4 col-md-6 counter-divider">
               <div class="counter-card">
                   <h3 class="counter-card_number">
                     <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
-                      <span class="counter-number">200</span>+
+                      <span class="counter-number">139</span>+
                   </h3>
-                  <h4 class="counter-card_title">Business Satisfaction</h4>
-                  <p class="counter-card_text">We don't just deliver projects; we drive lasting business transformation. With 139+ satisfied business clients, we pride ourselves on fostering enduring partnerships, helping companies thrive, innovate, and lead in their industries.</p>
+                  <h4 class="counter-card_title">Satisfied Customers</h4>
+                  <p class="counter-card_text">We are a creative agency brands building insightful strategy, creating unique designs helping</p>
               </div>
           </div>
       </div>
       </div>
     </div>
     <!-- Counter end -->
+     <!-- tagline-scroll -->
+      <div class="tagline-scroll d-none">
+        <section class="opacity-7">
+          <div class="main-marq xlrg o-hidden">
+              <div class="slide-har st1 strok">
+                  <div class="box"><!--[-->
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Simplify your life, </span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Amplify your joy</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Simplify your life,</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Amplify your joy</span></h4>
+                      </div><!--]-->
+                  </div>
+                  <div class="box"><!--[-->
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Simplify your life, </span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Amplify your joy</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Simplify your life, </span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Amplify your joy</span></h4>
+                      </div><!--]-->
+                  </div>
+              </div>
+          </div>
+          <div class="main-marq xlrg o-hidden">
+              <div class="slide-har st2 non-strok">
+                  <div class="box"><!--[-->
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Simplify your life,</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Amplify your joy</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Simplify your life,</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Amplify your joy</span></h4>
+                      </div><!--]-->
+                  </div>
+                  <div class="box"><!--[-->
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Simplify your life,</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Amplify your joy</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Simplify your life,</span></h4>
+                      </div>
+                      <div class="item">
+                          <h4 class="d-flex align-items-center"><span>Amplify your joy</span></h4>
+                      </div><!--]-->
+                  </div>
+              </div>
+          </div>
+      </section>
+      </div>
+      <!-- tagline scroll end -->
     <!-- ====================================================================================== 
       ======================================================================================  -->
-  <div class="footer">
+    <!-- Footer start -->
+    <div class="footer d-none">
+        <div class="container">
+            <ul class="footer-nav">
+                <li>I'mAccessible © 2024</li>
+                
+            </ul>
+        </div>
+    </div>
+    <!-- Footer end -->
+
+    <div class="footer">
       <div class="container pb-40 section-padding ontop">
           <div class="row">
               <div class="col-lg-3">
@@ -378,7 +671,7 @@
               <div class="col-lg-4">
                   <div class="column address-bar">
                       <div class="mb-5">
-                          <p>I'M ACCESSIBLE blends luxury with cutting-edge technology, specializing in Brand Architecture, Blockchain Visualization, R&D, and Data Modeling to deliver bespoke, innovative lifestyle solutions.</p>
+                          <p>We champion accessibility and inclusivity. Our mission is to ensure that everyone feels welcome and heard, fostering a supportive community where diverse voices thrive and collaborate.</p>
                       </div>
                   </div>
               </div>
@@ -521,7 +814,6 @@
 
 <!-- import data -->
  <script src="assets/js/data/branding.js"></script>
- <script src="assets/js/data/product.js"></script>
 
 
 

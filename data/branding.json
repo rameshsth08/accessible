@@ -1,0 +1,48 @@
+[
+    {
+      "title": "Luxury Living Properties",
+      "image": "assets/images/brand-engineering/1.jpg",
+      "infoLeft": "Premium real estate",
+      "infoRight": "Specialized branding",
+      "type": "image"
+    },
+    {
+      "title": "Dining & Travel",
+      "video": "assets/video/Automotive_I'm Accessible Intro_.mp4",
+      "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "infoLeft": "luxury travel experiences",
+      "infoRight": "world-class prestige",
+      "type": "video"
+    },
+    {
+        "title": "Dining & Travel",
+        "video": "https://youtu.be/gnOdx1eJGzI",
+        "image": "assets/images/brand-engineering/3.jpg",
+        "infoLeft": "luxury travel experiences",
+        "infoRight": "world-class prestige",
+        "type": "video"
+      },
+    {
+      "title": "Adventure & Leisure",
+      "image": "assets/images/brand-engineering/3.jpg",
+      "infoLeft": "top-tier branding solutions",
+      "infoRight": "thrilling experiences",
+      "type": "image"
+    },
+    {
+        "title": "Adventure & Leisure",
+        "image": "assets/images/brand-engineering/3.jpg",
+        "infoLeft": "top-tier branding solutions",
+        "infoRight": "thrilling experiences",
+        "type": "image"
+      },
+      {
+        "title": "Dining & Travel",
+        "video": "assets/video/Automotive_I'm Accessible Intro_.mp4",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "infoLeft": "luxury travel experiences",
+        "infoRight": "world-class prestige",
+        "type": "video"
+      }
+  ]
+  

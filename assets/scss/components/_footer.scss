@@ -13,7 +13,7 @@
     .logo{
       a{
         display: block;
-        max-width: 220px;
+        max-width: 280px;
         opacity: 1;
         margin-bottom: 1rem;
       }
@@ -21,6 +21,11 @@
         font-weight: 400;
         font-size: 15px;
         text-transform: uppercase;
+        sup{
+          font-size: 9px;
+          margin-left: 3px;
+          margin-top: 1px;
+        }
       }
     }
     .column {
@@ -50,6 +55,17 @@
           }
           &:hover{
             color: #ffb78e;
+          }
+        }
+      }
+      .copyright{
+        p{
+          display: flex;
+          gap: 10px;
+          align-items: center;
+          a{
+            display: block;
+            width: 110px;
           }
         }
       }
