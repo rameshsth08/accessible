@@ -1,48 +1,96 @@
 [
+    
     {
-      "title": "Luxury Living Properties",
-      "image": "assets/images/brand-engineering/1.jpg",
-      "infoLeft": "Premium real estate",
-      "infoRight": "Specialized branding",
-      "type": "image"
+      "title": "Travel",
+      "video": "assets/video/TravelingExp _I'm Accessible Intro_.mp4",
+      "image": "assets/images/brand-engineering/brands/Travel_2.jpg",
+      "tagline": "Luxury Travel Experiences",
+      "infoRight": "Travel",
+      "type": "video",
+      "desc":"Designing aspirational travel brands that offer bespoke, high-end experiences, capturing the essence of exclusive and unforgettable journeys."
     },
     {
-      "title": "Dining & Travel",
+      "title": "Automotive",
       "video": "assets/video/Automotive_I'm Accessible Intro_.mp4",
-      "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "infoLeft": "luxury travel experiences",
-      "infoRight": "world-class prestige",
-      "type": "video"
+      "image": "assets/images/brand-engineering/brands/Automotive.jpg",
+      "tagline": "Elite Automotive Innovations",
+      "t": "Automotive",
+      "type": "video",
+      "desc":" Tailored for the finest automotive brands, combining precision engineering with cutting-edge technology to drive excellence."
     },
     {
-        "title": "Dining & Travel",
-        "video": "https://youtu.be/gnOdx1eJGzI",
-        "image": "assets/images/brand-engineering/3.jpg",
-        "infoLeft": "luxury travel experiences",
-        "infoRight": "world-class prestige",
-        "type": "video"
-      },
-    {
-      "title": "Adventure & Leisure",
-      "image": "assets/images/brand-engineering/3.jpg",
-      "infoLeft": "top-tier branding solutions",
-      "infoRight": "thrilling experiences",
-      "type": "image"
-    },
-    {
-        "title": "Adventure & Leisure",
-        "image": "assets/images/brand-engineering/3.jpg",
-        "infoLeft": "top-tier branding solutions",
-        "infoRight": "thrilling experiences",
-        "type": "image"
+        "title": "Luxury living",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "tagline": "Opulent Living Solutions",
+        "infoRight": "Luxury living",
+        "type": "video",
+        "desc":"Building brands for luxury real estate, interior design, and bespoke living experiences that exude grandeur and refinement."
       },
       {
-        "title": "Dining & Travel",
-        "video": "assets/video/Automotive_I'm Accessible Intro_.mp4",
-        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "infoLeft": "luxury travel experiences",
-        "infoRight": "world-class prestige",
-        "type": "video"
+        "title": "Dining",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "tagline": "Gourmet Dining Experiences",
+        "infoRight": "Dining",
+        "type": "video",
+        "desc":"Elevating the art of culinary branding with a focus on premium, unforgettable dining journeys that resonate with taste and luxury."
+      },
+      {
+        "title": "Fashion",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "tagline": "Haute Couture Fashion Branding",
+        "infoRight": "Fashion",
+        "type": "video",
+        "desc":"Defining elegance and exclusivity in the fashion world, creating iconic identities for high-end fashion houses."
+      },
+      {
+        "title": "Holistic",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "tagline": "Wellness & Holistic Excellence",
+        "infoRight": "Holistic",
+        "type": "video",
+        "desc":"Crafting serene and transformative wellness brands that embody holistic practices, luxury retreats, and mind-body harmony."
+      },
+      {
+        "title": "Lifestyle",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "tagline": "Exquisite Lifestyle Brands",
+        "infoRight": "Lifestyle",
+        "type": "video",
+        "desc":"Creating aspirational lifestyle identities that represent sophistication, luxury, and timeless style across diverse industries."
+      },
+      {
+        "title": "Science & Technology",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "tagline": "Innovative Science & Tech Mastery",
+        "infoRight": "Science & Technology",
+        "type": "video",
+        "desc":"Engineering futuristic brands that lead the frontier of scientific breakthroughs and technological advancements with precision and authority."
+      },
+      {
+        "title": "Startups",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "tagline": "Pioneering Startup Visions",
+        "infoRight": "Startups",
+        "type": "video",
+        "desc":"Crafting visionary brands for dynamic startups, blending innovation with strategic positioning to accelerate growth and success."
       }
+      ,
+      {
+        "title": "Realestate",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "tagline": "Premium Realestate",
+        "infoRight": "Realestate",
+        "type": "video",
+        "desc":"Redefining luxury real estate branding by creating identities that stand for prestige, exclusivity, and timeless value in the property market."
+      }
+    
   ]
   
