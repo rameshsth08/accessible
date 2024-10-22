@@ -16,6 +16,12 @@
     transition: transform .5s ease;
     transition: transform .5s ease, -webkit-transform .5s ease;
     overflow: hidden;
+    @include media-breakpoint-down(lg){
+        width: 70%;
+    }
+    @include media-breakpoint-down(md){
+        width: 100%;
+    }
 }
 .side-menu.left {
     left: 0; right: auto;
@@ -126,6 +132,9 @@
     text-align: left;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    @include media-breakpoint-down(md){
+        padding: 3.5rem 2rem; 
+    }
 }
 .pul-menu.pushwrap .side-menu .inner-wrapper{
     padding: 3.5rem 2.5rem;
@@ -240,7 +249,7 @@
     .banner-icons{
         display: flex;
         gap: 1rem;
-        margin-bottom: 0.75rem;
+        margin-bottom: 1.5rem;
         a{
             color: $black;
         }
@@ -257,7 +266,7 @@
         align-items: center;
         gap: 10px;
         a{
-            width: 110px;
+            width: 130px;
             display: block;
             color: $black;
         }

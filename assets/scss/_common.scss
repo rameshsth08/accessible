@@ -67,7 +67,9 @@ html {
       transform: translateY(15px);
       -webkit-transition: all 200ms linear;
       transition: all 200ms linear;
-  
+    @include media-breakpoint-down(lg){
+        display: none;
+    }
       &.active {
           opacity: 1;
           visibility: visible;

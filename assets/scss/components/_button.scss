@@ -9,6 +9,10 @@
     border-radius: 30px ;
     font-size: 14px;
     text-transform: uppercase;
+    display: inline-block;
+    @include media-breakpoint-down(lg){
+        //margin-bottom: 1.5rem;
+    }
     &:hover{
         background: #fff;
         color: #000;

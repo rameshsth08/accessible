@@ -29,21 +29,21 @@
       },
       {
         "title": "Asus ZenBook Pro Duo UX8402",
-        "productType": "mens",
+        "productType": "Laptop",
         "image": "assets/images/laptops/laptop-1.jpg",
         "hoverImage": "assets/images/laptops/laptop-b-1.jpg",
         "category": "accessible_tech"
       },
       {
         "title": "RAIDER GE68 HX 14VIG-426AU",
-        "productType": "mens",
+        "productType": "Laptop",
         "image": "assets/images/laptops/laptop-2.jpg",
         "hoverImage": "assets/images/laptops/laptop-b-2.jpg",
         "category": "accessible_tech"
       },
       {
         "title": "SPECTRE X360 14-EU0037TU I5-125H W11P",
-        "productType": "mens",
+        "productType": "Laptop",
         "image": "assets/images/laptops/laptop-3.jpg",
         "hoverImage": "assets/images/laptops/laptop-b-3.jpg",
         "category": "accessible_tech"
