@@ -15,6 +15,7 @@
           projectBoxClone.querySelector('.project-box').innerHTML = `
             <div class="project-box-container">
               <a href="#">
+              <div class="imganimator">
                 <div class="project-img">
                   ${project.type === 'video' ? `
                     <div class="video">
@@ -27,6 +28,7 @@
                   ` : `
                     <img src="${project.image}" alt="">
                   `}
+                </div>
                 </div>
                 <div class="content-overlay">
                   <div>
@@ -70,6 +72,7 @@
           projectBoxClone.querySelector('.project-box').innerHTML = `
             <div class="project-box-container">
               <a href="#">
+              <div class="imganimator">
                 <div class="project-img">
                   ${project.type === 'video' ? `
                     <div class="video">
@@ -80,8 +83,9 @@
                       <img src="${project.image}" alt="">
                     </div>
                   ` : `
-                    <img src="${project.image}" alt="">
+                    <img data-speed=".5" src="${project.image}" alt="">
                   `}
+                </div>
                 </div>
                 <div class="content-overlay">
                   <div>

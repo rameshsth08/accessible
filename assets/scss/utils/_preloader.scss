@@ -1,0 +1,104 @@
+/*---------------------------------------------------*/
+/*	Preloader
+/*---------------------------------------------------*/
+.preloader {
+    position: fixed;
+    background: #202020;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    z-index: 99999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+    transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .preloader.preloaded .ripple {
+    opacity: 0;
+  }
+  .preloader .ripple {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+    opacity: 1;
+    transition: opacity 1s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .preloader .ripple div {
+    position: absolute;
+    border: 4px solid #ededed;
+    opacity: 1;
+    border-radius: 50%;
+    animation: ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+  }
+  .preloader .ripple div:nth-child(2) {
+    animation-delay: -0.5s;
+  }
+  
+  .dark .preloader {
+    background: #0e0d0d;
+  }
+  
+  @keyframes ripple {
+    0% {
+      top: 36px;
+      left: 36px;
+      width: 0;
+      height: 0;
+      opacity: 0;
+    }
+    4.9% {
+      top: 36px;
+      left: 36px;
+      width: 0;
+      height: 0;
+      opacity: 0;
+    }
+    5% {
+      top: 36px;
+      left: 36px;
+      width: 0;
+      height: 0;
+      opacity: 1;
+    }
+    100% {
+      top: 0px;
+      left: 0px;
+      width: 72px;
+      height: 72px;
+      opacity: 0;
+    }
+  }
+
+  .load-text span {
+    font-weight: 300;
+    font-size: 5rem;
+    -webkit-animation: loading 1s infinite alternate;
+    animation: loading 1s infinite alternate; }
+
+    // Mixin to apply the delay to nth-child elements
+@mixin apply-delay($total) {
+    @for $i from 1 through $total {
+      .load-text span:nth-child(#{$i}) {
+        -webkit-animation-delay: #{$i * 0.1}s;
+        animation-delay: #{$i * 0.1}s;
+      }
+    }
+  }
+  
+  // Usage: Apply delay to 13 child elements
+  @include apply-delay(13);
+  
+  @-webkit-keyframes loading {
+    0% {
+      opacity: 1; }
+    100% {
+      opacity: 0; } }
+  
+  @keyframes loading {
+    0% {
+      opacity: 1; }
+    100% {
+      opacity: 0; } }
