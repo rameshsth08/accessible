@@ -30,7 +30,7 @@
       {
         "title": "Dining",
         "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "image": "assets/images/brand-engineering/brands/Dining.jpg",
         "tagline": "Gourmet Dining Experiences",
         "infoRight": "Dining",
         "type": "video",
@@ -39,7 +39,7 @@
       {
         "title": "Fashion",
         "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "image": "assets/images/brand-engineering/brands/Fashion.jpg",
         "tagline": "Haute Couture Fashion Branding",
         "infoRight": "Fashion",
         "type": "video",
@@ -47,8 +47,8 @@
       },
       {
         "title": "Holistic",
-        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "video": "assets/video/Wellness_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Holistic.jpg",
         "tagline": "Wellness & Holistic Excellence",
         "infoRight": "Holistic",
         "type": "video",
@@ -56,8 +56,8 @@
       },
       {
         "title": "Lifestyle",
-        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "video": "assets/video/Lifestyle_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Lifestyle.jpg",
         "tagline": "Exquisite Lifestyle Brands",
         "infoRight": "Lifestyle",
         "type": "video",
@@ -65,8 +65,8 @@
       },
       {
         "title": "Science & Technology",
-        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "video": "assets/video/Sciencetech_I'm Accessible Intr0_2.mp4",
+        "image": "assets/images/brand-engineering/brands/Science&Tech.jpg",
         "tagline": "Innovative Science & Tech Mastery",
         "infoRight": "Science & Technology",
         "type": "video",
@@ -75,22 +75,13 @@
       {
         "title": "Startups",
         "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
+        "image": "assets/images/brand-engineering/brands/Travel_2.jpg",
         "tagline": "Pioneering Startup Visions",
         "infoRight": "Startups",
         "type": "video",
         "desc":"Crafting visionary brands for dynamic startups, blending innovation with strategic positioning to accelerate growth and success."
       }
-      ,
-      {
-        "title": "Realestate",
-        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Luxury living.jpg",
-        "tagline": "Premium Realestate",
-        "infoRight": "Realestate",
-        "type": "video",
-        "desc":"Redefining luxury real estate branding by creating identities that stand for prestige, exclusivity, and timeless value in the property market."
-      }
+     
     
   ]
   

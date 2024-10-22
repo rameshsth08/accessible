@@ -13,6 +13,12 @@
 .about-section{
     border-top: 1px solid rgba($color: $white, $alpha: 0.5);
     margin-top: 3rem;
+    h2{
+        top: 50px;
+        @include media-breakpoint-down(md){
+            margin-bottom: 30px;
+        }
+    }
 }
 .about-content{
     margin-bottom: 3rem;
@@ -34,6 +40,11 @@
         columns: 2;
         -webkit-columns: 2;
         -moz-columns: 2;
+        @include media-breakpoint-down(md){
+            columns: 1;
+            -webkit-columns: 1;
+            -moz-columns: 1;
+        }
         li{
             margin-bottom: 0.5rem;
             position: relative;
@@ -56,11 +67,14 @@
 .about-img{
     height: 600px;
     overflow: hidden;
-    border-radius: 20px;
+    @include media-breakpoint-down(md){
+        height: 350px;
+    }
     figure{
         height: 100%;
         width: 100%;
         overflow: hidden;
+        border-radius: 20px;
         img{
             height: 100%;
             width: 100%;
