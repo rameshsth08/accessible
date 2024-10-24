@@ -2,10 +2,12 @@
     .content{
         h2{
             font-weight: 400;
-            
+            font-size: 22px;
+            line-height: 1.75;
             span{
                 font-weight: 700;
                 letter-spacing: 2px;
+                display: inline-block;
             }
             sup{
                 font-size: 13px;

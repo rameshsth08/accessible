@@ -39,7 +39,7 @@
             </div>
             <div class="img-info img-info--left">
               <div class="img-info-wrap">
-                <span>${project.infoLeft}</span>
+                <span>${project.title}</span>
               </div>
             </div>
             <div class="img-info img-info--right">
@@ -96,7 +96,7 @@
             </div>
             <div class="img-info img-info--left">
               <div class="img-info-wrap">
-                <span>${project.infoLeft}</span>
+                <span>${project.title}</span>
               </div>
             </div>
             <div class="img-info img-info--right">

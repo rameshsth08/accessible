@@ -14,7 +14,7 @@
       "video": "assets/video/Automotive_I'm Accessible Intro_.mp4",
       "image": "assets/images/brand-engineering/brands/Automotive.jpg",
       "tagline": "Elite Automotive Innovations",
-      "t": "Automotive",
+      "infoRight": "Automotive",
       "type": "video",
       "desc":" Tailored for the finest automotive brands, combining precision engineering with cutting-edge technology to drive excellence."
     },
@@ -36,15 +36,7 @@
         "type": "video",
         "desc":"Elevating the art of culinary branding with a focus on premium, unforgettable dining journeys that resonate with taste and luxury."
       },
-      {
-        "title": "Fashion",
-        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Fashion.jpg",
-        "tagline": "Haute Couture Fashion Branding",
-        "infoRight": "Fashion",
-        "type": "video",
-        "desc":"Defining elegance and exclusivity in the fashion world, creating iconic identities for high-end fashion houses."
-      },
+      
       {
         "title": "Holistic",
         "video": "assets/video/Wellness_I'm Accessible Intro_.mp4",
@@ -71,17 +63,6 @@
         "infoRight": "Science & Technology",
         "type": "video",
         "desc":"Engineering futuristic brands that lead the frontier of scientific breakthroughs and technological advancements with precision and authority."
-      },
-      {
-        "title": "Startups",
-        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
-        "image": "assets/images/brand-engineering/brands/Travel_2.jpg",
-        "tagline": "Pioneering Startup Visions",
-        "infoRight": "Startups",
-        "type": "video",
-        "desc":"Crafting visionary brands for dynamic startups, blending innovation with strategic positioning to accelerate growth and success."
       }
-     
-    
   ]
   

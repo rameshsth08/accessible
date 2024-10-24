@@ -1,32 +1,123 @@
 [
-    {
-      "title": "Accessible Bagpack",
-      "productType": "unisex",
-      "image": "assets/images/products/bag/Backpack_Imaccessible_Black.jpg",
-      "hoverImage": "assets/images/products/bag/Backpack_Imaccessible_white.jpg",
-      "category": "accessible_product"
-    },
-    {
-        "title": "Accessible Hat",
-        "productType": "mens",
-        "image": "assets/images/products/hat/hat_mockup_edit_Black.jpg",
-        "hoverImage": "assets/images/products/hat/hat_mockup_edit_White.jpg",
-        "category": "accessible_product"
-      },
-      {
-        "title": "Accessible Pen",
-        "productType": "Stationary",
-        "image": "assets/images/products/pen/Free_Pen_Mockup_Black_color.jpg",
-        "hoverImage": "assets/images/products/pen/Free_Pen_Mockup_White_color.jpg",
-        "category": "accessible_product"
-      },
-      {
-        "title": "Accessible T-shirt",
-        "productType": "Stationary",
-        "image": "assets/images/products/t-shirt-1/T-shirt_only_black.jpg",
-        "hoverImage": "assets/images/products/t-shirt-1/T-shirt_only_white.jpg",
-        "category": "accessible_product"
-      },
+  {
+    "title": "Accessible Umbrella",
+    "productType": "unisex",
+    "image": "assets/images/products/final/Umbrella_01.jpg",
+    "hoverImage": "assets/images/products/final/Umbrella_01.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Accessible Bagpack",
+    "productType": "men",
+    "image": "assets/images/products/final/T-shirt_only_black.jpg",
+    "hoverImage": "assets/images/products/final/T-shirt_only_white.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Sweatshirt Black",
+    "productType": "men",
+    "image": "assets/images/products/final/Sweatshirt_Black.jpg",
+    "hoverImage": "assets/images/products/final/Sweatshirt_White.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "sweater",
+    "productType": "unisex",
+    "image": "assets/images/products/final/sweater_01.jpg",
+    "hoverImage": "assets/images/products/final/sweater_01.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Socks",
+    "productType": "unisex",
+    "image": "assets/images/products/final/Socks_edit_black.jpg",
+    "hoverImage": "assets/images/products/final/Socks_edit.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Sneaker",
+    "productType": "Men",
+    "image": "assets/images/products/final/sneaker_01.jpg",
+    "hoverImage": "assets/images/products/final/sneaker_02.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Polo Shirt",
+    "productType": "Men",
+    "image": "assets/images/products/final/Polo Shirt Mockup_Black.jpg",
+    "hoverImage": "assets/images/products/final/Polo Shirt Mockup_White.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Pendrive",
+    "productType": "Data Storage",
+    "image": "assets/images/products/final/Pendrive_Mockup_2.jpg",
+    "hoverImage": "assets/images/products/final/Pendrive_Mockup_2.jpg",
+    "category": "accessible_tech"
+  },
+  {
+    "title": "Notebook",
+    "productType": "Stationary",
+    "image": "assets/images/products/final/notebook_01.jpg",
+    "hoverImage": "assets/images/products/final/notebook_01.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Mug",
+    "productType": "",
+    "image": "assets/images/products/final/mug mockup set_main.jpg",
+    "hoverImage": "assets/images/products/final/mug mockup set_main.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Hoody Mockup",
+    "productType": "unisex",
+    "image": "assets/images/products/final/Hoody Mockup_Main_Black.jpg",
+    "hoverImage": "assets/images/products/final/Hoody Mockup_Main_White.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Accessible Hat",
+    "productType": "unisex",
+    "image": "assets/images/products/final/hat_mockup_edit_Black.jpg",
+    "hoverImage": "assets/images/products/final/hat_mockup_edit_White.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Accessible Pen",
+    "productType": "Stationary",
+    "image": "assets/images/products/final/Free_Pen_Mockup_Black_color.jpg",
+    "hoverImage": "assets/images/products/final/Free_Pen_Mockup_White_color.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Accessible Cap",
+    "productType": "unisex",
+    "image": "assets/images/products/final/cap-hat-mockup_main_white.jpg",
+    "hoverImage": "assets/images/products/final/cap-hat-mockup_main_white.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Bomber Jacket",
+    "productType": "Men",
+    "image": "assets/images/products/final/BomberJacket_01.jpg",
+    "hoverImage": "assets/images/products/final/BomberJacket_01.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "Backpack Imaccessible",
+    "productType": "unisex",
+    "image": "assets/images/products/final/Backpack_Imaccessible_bar_01.jpg",
+    "hoverImage": "assets/images/products/final/Backpack_Imaccessible_bar_02.jpg",
+    "category": "accessible_product"
+  },
+  {
+    "title": "WoMan Tshirt",
+    "productType": "",
+    "image": "assets/images/products/final/02_WoMan_Tshirt_Black.jpg",
+    "hoverImage": "assets/images/products/final/02_WoMan_Tshirt_White.jpg",
+    "category": "accessible_product"
+  },
       {
         "title": "Asus ZenBook Pro Duo UX8402",
         "productType": "Laptop",

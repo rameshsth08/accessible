@@ -1,0 +1,27 @@
+,
+      {
+        "title": "Realestate",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Travel_2.jpg",
+        "tagline": "Pioneering Startup Visions",
+        "infoRight": "Premium Realestate",
+        "type": "video",
+        "desc":"Redefining luxury real estate branding by creating identities that stand for prestige, exclusivity, and timeless value in the property market."
+      } ,
+      {
+        "title": "Startups",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Travel_2.jpg",
+        "tagline": "Pioneering Startup Visions",
+        "infoRight": "Startups",
+        "type": "video",
+        "desc":"Crafting visionary brands for dynamic startups, blending innovation with strategic positioning to accelerate growth and success."
+      }, {
+        "title": "Fashion",
+        "video": "assets/video/LuxuryLiving_I'm Accessible Intro_.mp4",
+        "image": "assets/images/brand-engineering/brands/Fashion.jpg",
+        "tagline": "Haute Couture Fashion Branding",
+        "infoRight": "Fashion",
+        "type": "video",
+        "desc":"Defining elegance and exclusivity in the fashion world, creating iconic identities for high-end fashion houses."
+      }
